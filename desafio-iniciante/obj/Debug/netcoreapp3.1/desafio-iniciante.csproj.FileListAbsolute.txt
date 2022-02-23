@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\bin\Debug\netcoreapp3.1\desafio-iniciante.exe
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\bin\Debug\netcoreapp3.1\desafio-iniciante.deps.json
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\bin\Debug\netcoreapp3.1\desafio-iniciante.runtimeconfig.json
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\bin\Debug\netcoreapp3.1\desafio-iniciante.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\bin\Debug\netcoreapp3.1\desafio-iniciante.dll
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\bin\Debug\netcoreapp3.1\desafio-iniciante.pdb
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\obj\Debug\netcoreapp3.1\desafio-iniciante.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\obj\Debug\netcoreapp3.1\desafio-iniciante.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\obj\Debug\netcoreapp3.1\desafio-iniciante.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\obj\Debug\netcoreapp3.1\desafio-iniciante.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\obj\Debug\netcoreapp3.1\desafio-iniciante.dll
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\obj\Debug\netcoreapp3.1\desafio-iniciante.pdb
+C:\Users\Usuario\Documents\Paulo\Projetos\Aprendendo .Net\desafio-iniciante\obj\Debug\netcoreapp3.1\desafio-iniciante.genruntimeconfig.cache
